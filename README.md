@@ -25,3 +25,14 @@ ask @richardostler for access
 ### Broadbalk soil core image data
 Very large image dataset compiled from imaging soil cores sampled from selected Broadbalk plots
 ask @richardostler for access
+
+### Countryside survey data
+National survey datasets from CEH available from the Einvironmental Information Centre. The survey covers a range of habitat types and dataset includes:
+* Invertebrate surveys
+* vegetation
+* soils chemistry and physical properties
+
+Datasets:
+* [CS 2000](https://catalogue.ceh.ac.uk/documents/b535ca33-c5e3-48fa-9912-ee9c0502ba1b)
+* [CS 2007](https://catalogue.ceh.ac.uk/documents/28eb9005-7154-4207-b086-e3bdcd61de4a)
+* Surveys for 1978, 1984 and 1990 also available. 
