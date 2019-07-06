@@ -5,6 +5,7 @@ Data in this repository are provided by Rothamsted Research.
 
 ### Broadbalk data 1968-2018
 Data for yields, grain quality, farm management data and soil chemistry available for the Broadbalk Long Term Experiment from this repository as CSV data packages.
+For more info: http://www.era.rothamsted.ac.uk/Broadbalk
 
 ### Rothamsted weather data 1968-2018
 Data from the Rothamsted meteorological station avaialbe from this repository as a CSV data package.
