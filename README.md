@@ -12,6 +12,12 @@ Data from the Rothamsted meteorological station avaialbe from this repository as
 ### North Wyke Farm Platform
 Information about accessing Data for the North Wyke Farm Platform can be found here:  https://github.com/Rothamsted-Ecoinformatics/AgriTechEastHackathonData/wiki/North-Wyke-Farm-Platform-Guide-to-accessing-data
 
+### Park Grass Soil Metagenome (soil microbial genetic diversity)
+The Park Grass is a long-term permenant grassland/hay meadow experiment at Rothamsted research with plots exposed to a range of fertilizer and liming regimes. 
+Data avaialble from the European Bioinfomatics Institute:
+https://www.ebi.ac.uk/metagenomics/studies/MGYS00001003
+https://www.ebi.ac.uk/metagenomics/studies/MGYS00000283
+
 ### Environmental Change Network
 Information about accessing data from the Environmental Change Network: https://github.com/Rothamsted-Ecoinformatics/AgriTechEastHackathonData/wiki/Environmental-Change-Network (biological survey, meteorology and environmental chemistry)
 
